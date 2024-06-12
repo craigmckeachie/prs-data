@@ -10,7 +10,7 @@ function createRandomVendor() {
   return {
     code: companyCode,
     name: companyName,
-    address: faker.location.streetAddress(),
+    address: faker.location.streetAddress().replace("'", "''"),
     city: faker.location.city(),
     state: faker.location.state({ abbreviated: true }),
     zip: faker.location.zipCode("#####"),

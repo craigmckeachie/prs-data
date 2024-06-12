@@ -3,7 +3,513 @@ GO
   DELETE FROM [dbo].[Vendors]
 GO
 
- 
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'SCHU',
+          'Schuppe, Runte and Oberbrunne',
+          '103 Dach Point',
+          'Cummeratashire',
+          'AR',
+          '69202',
+          '7984303375',
+          'support@SCHU.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'RATH',
+          'Rath - Johnson',
+          '24747 Mozelle Way',
+          'South Lawson',
+          'TX',
+          '76718',
+          '6038663906',
+          'support@RATH.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'HAMI',
+          'Hamill, Zieme and Yundt',
+          '801 S Franklin Street',
+          'Aufderharfort',
+          'CT',
+          '80626',
+          '5124869453',
+          'support@HAMI.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'KUHN',
+          'Kuhn LLC',
+          '1704 South Street',
+          'Swaniawskistead',
+          'AZ',
+          '20124',
+          '9774642545',
+          'support@KUHN.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'STIE',
+          'Stiedemann, Grady and Ankundi',
+          '717 Heron Close',
+          'Barrowsshire',
+          'IL',
+          '42983',
+          '9675702258',
+          'support@STIE.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'KOCH',
+          'Koch, Von and Bayer',
+          '9786 Murazik Hollow',
+          'Port Arnoldboro',
+          'NJ',
+          '50133',
+          '7005620778',
+          'support@KOCH.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'HICK',
+          'Hickle and Sons',
+          '5630 Baby Union',
+          'Jackson',
+          'MA',
+          '44659',
+          '3125375408',
+          'support@HICK.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'SPIN',
+          'Spinka, Bailey and Veum',
+          '3769 Clay Lane',
+          'Gabrielleview',
+          'SD',
+          '80317',
+          '2455701207',
+          'support@SPIN.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'SCHA',
+          'Schaefer and Sons',
+          '68197 Willow Street',
+          'South Trevaborough',
+          'NM',
+          '29465',
+          '4222706023',
+          'support@SCHA.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'SIPE',
+          'Sipes - Kovacek',
+          '747 Jasmin Forks',
+          'Federal Way',
+          'NH',
+          '15245',
+          '0497613314',
+          'support@SIPE.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'BINS',
+          'Bins, Feeney and Crooks',
+          '80305 Braulio Row',
+          'Garthhaven',
+          'MT',
+          '76948',
+          '5474441778',
+          'support@BINS.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'ABSH',
+          'Abshire - Abshire',
+          '5905 Bradtke Extension',
+          'Leuschkeside',
+          'IN',
+          '12768',
+          '1819219020',
+          'support@ABSH.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'SCHM',
+          'Schmidt, Johns and Beer',
+          '680 Beatty Route',
+          'Port Jerrell',
+          'NV',
+          '14148',
+          '3206443590',
+          'support@SCHM.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'HAND',
+          'Hand - Hills',
+          '75058 Hermiston Plaza',
+          'Port Mae',
+          'WV',
+          '19418',
+          '0648748393',
+          'support@HAND.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'JASK',
+          'Jaskolski LLC',
+          '82126 Lang Summit',
+          'Port Idell',
+          'TN',
+          '04811',
+          '4652675420',
+          'support@JASK.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'BLOC',
+          'Block LLC',
+          '6990 N Front Street',
+          'West Auguststad',
+          'NE',
+          '09241',
+          '4133454683',
+          'support@BLOC.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'BEER',
+          'Beer Inc',
+          '6629 Botsford Port',
+          'Annabelville',
+          'AK',
+          '14798',
+          '1000620985',
+          'support@BEER.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'STRO',
+          'Stroman - Crooks',
+          '686 Abbigail Plaza',
+          'Port Stacey',
+          'NM',
+          '30369',
+          '4383888148',
+          'support@STRO.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'LABA',
+          'Labadie - Christiansen',
+          '813 Legros Union',
+          'Priceboro',
+          'NV',
+          '57945',
+          '9833473636',
+          'support@LABA.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'LEUS',
+          'Leuschke - Stoltenberg',
+          '489 1st Street',
+          'Fort Janehaven',
+          'OK',
+          '82045',
+          '4698881586',
+          'support@LEUS.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'STOL',
+          'Stoltenberg, Hand and Heller',
+          '78009 S 1st Street',
+          'Brianahaven',
+          'HI',
+          '27420',
+          '9965673509',
+          'support@STOL.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'RUSS',
+          'Russel, Bashirian and Lang',
+          '8916 Tromp Canyon',
+          'North Stanstad',
+          'CA',
+          '33935',
+          '7974584871',
+          'support@RUSS.com'
+          )
+  
+  
+
     INSERT INTO [dbo].[Vendors]
               ([Code]
               ,[Name]
@@ -16,12 +522,12 @@ GO
         VALUES
               (
           'ROHA',
-          'Rohan, Harvey and Rice',
-          '5514 Skiles Walks',
-          'Silascester',
-          'WV',
-          '52239',
-          '8487959212',
+          'Rohan - Gutkowski',
+          '475 Andreanne Shores',
+          'Johns Creek',
+          'MA',
+          '12008',
+          '3386172493',
           'support@ROHA.com'
           )
   
@@ -38,14 +544,14 @@ GO
               ,[Email])
         VALUES
               (
-          'FEEN',
-          'Feeney, McCullough and Schaef',
-          '9749 Georgette Key',
-          'New Jamel',
-          'AZ',
-          '50911',
-          '6914787975',
-          'support@FEEN.com'
+          'RUTH',
+          'Rutherford - Hartmann',
+          '8969 Kara Valleys',
+          'Lake Floridashire',
+          'MT',
+          '57413',
+          '3446224200',
+          'support@RUTH.com'
           )
   
   
@@ -61,14 +567,14 @@ GO
               ,[Email])
         VALUES
               (
-          'HEGM',
-          'Hegmann - Langosh',
-          '839 Bridge Street',
-          'Cummingsfield',
-          'WI',
-          '39908',
-          '3873491459',
-          'support@HEGM.com'
+          'MITC',
+          'Mitchell - Renner',
+          '7678 S Walnut Street',
+          'Markusbury',
+          'HI',
+          '89373',
+          '3035202341',
+          'support@MITC.com'
           )
   
   
@@ -84,14 +590,14 @@ GO
               ,[Email])
         VALUES
               (
-          'PRED',
-          'Predovic, Stanton and Halvors',
-          '20872 Jaycee Run',
-          'Forestview',
-          'AR',
-          '13755',
-          '4026008803',
-          'support@PRED.com'
+          'BAIL',
+          'Bailey - Connelly',
+          '806 Mellie Summit',
+          'Gorczanyworth',
+          'LA',
+          '02857',
+          '3854999454',
+          'support@BAIL.com'
           )
   
   
@@ -107,14 +613,14 @@ GO
               ,[Email])
         VALUES
               (
-          'LESC',
-          'Lesch LLC',
-          '2691 Bo Spring',
-          'Stillwater',
-          'AR',
-          '56010',
-          '6661134470',
-          'support@LESC.com'
+          'LEBS',
+          'Lebsack - Doyle',
+          '78930 Vita Keys',
+          'Bayerchester',
+          'WV',
+          '13228',
+          '4186193226',
+          'support@LEBS.com'
           )
   
   
@@ -130,14 +636,14 @@ GO
               ,[Email])
         VALUES
               (
-          'LEGR',
-          'Legros - Fritsch',
-          '51307 S Central Avenue',
-          'Torphychester',
-          'MD',
-          '24975',
-          '1845419376',
-          'support@LEGR.com'
+          'FRAN',
+          'Franey, Hoeger and Homenick',
+          '809 Forest Road',
+          'Reichelland',
+          'TN',
+          '21134',
+          '9948642840',
+          'support@FRAN.com'
           )
   
   
@@ -153,14 +659,83 @@ GO
               ,[Email])
         VALUES
               (
-          'BARR',
-          'Barrows - Gulgowski',
-          '914 Robel Skyway',
-          'Kirlinchester',
-          'NJ',
-          '98098',
-          '3653903822',
-          'support@BARR.com'
+          'RIPP',
+          'Rippin - Reynolds',
+          '5626 Frieda Street',
+          'Powlowskiland',
+          'CO',
+          '90195',
+          '5183918724',
+          'support@RIPP.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'LIND',
+          'Lind LLC',
+          '50979 Pagac Circle',
+          'Mooreberg',
+          'VA',
+          '47449',
+          '7614279334',
+          'support@LIND.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'NICO',
+          'Nicolas, McCullough and Moris',
+          '792 Arlie Dale',
+          'Framiborough',
+          'RI',
+          '59976',
+          '6668679076',
+          'support@NICO.com'
+          )
+  
+  
+
+    INSERT INTO [dbo].[Vendors]
+              ([Code]
+              ,[Name]
+              ,[Address]
+              ,[City]
+              ,[State]
+              ,[Zip]
+              ,[Phone]
+              ,[Email])
+        VALUES
+              (
+          'HERZ',
+          'Herzog - Nicolas',
+          '22818 Lane Lock',
+          'Fort Jodiestead',
+          'WA',
+          '59246',
+          '8835893532',
+          'support@HERZ.com'
           )
   
   
@@ -178,11 +753,11 @@ GO
               (
           'BAUC',
           'Bauch Group',
-          '42647 Schiller Flats',
-          'Fort Jimmyberg',
-          'VT',
-          '08876',
-          '0869406197',
+          '8675 Zella Harbors',
+          'Santahaven',
+          'TN',
+          '84962',
+          '5381325423',
           'support@BAUC.com'
           )
   
@@ -199,14 +774,14 @@ GO
               ,[Email])
         VALUES
               (
-          'KRAJ',
-          'Krajcik and Sons',
-          '36408 Nolan Ville',
-          'New Waino',
-          'KY',
-          '46040',
-          '1972207586',
-          'support@KRAJ.com'
+          'BATZ',
+          'Batz Inc',
+          '3478 Harmony Ranch',
+          'Fort Winfieldfort',
+          'UT',
+          '05552',
+          '5811259949',
+          'support@BATZ.com'
           )
   
   
@@ -222,14 +797,14 @@ GO
               ,[Email])
         VALUES
               (
-          'HOWE',
-          'Howe, Waters and Kozey',
-          '1170 S 14th Street',
-          'Marksport',
-          'OR',
-          '29606',
-          '6029485181',
-          'support@HOWE.com'
+          'WYMA',
+          'Wyman, Lowe and Christiansen',
+          '94210 W 3rd Street',
+          'Fort Royalboro',
+          'UT',
+          '38391',
+          '8210137743',
+          'support@WYMA.com'
           )
   
   
@@ -245,14 +820,14 @@ GO
               ,[Email])
         VALUES
               (
-          'WEIM',
-          'Weimann and Sons',
-          '1601 Alvena Expressway',
-          'North Lila',
-          'TN',
-          '11421',
-          '8154021490',
-          'support@WEIM.com'
+          'SCHA',
+          'Schaefer - Gutkowski',
+          '894 Judd Light',
+          'Gianniworth',
+          'NE',
+          '00384',
+          '4237619082',
+          'support@SCHA.com'
           )
   
   
@@ -268,129 +843,14 @@ GO
               ,[Email])
         VALUES
               (
-          'KUPH',
-          'Kuphal, Langworth and Stolten',
-          '488 Clifton Road',
-          'Eusebioborough',
-          'CO',
-          '81284',
-          '8871788824',
-          'support@KUPH.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'LESC',
-          'Lesch, Glover and Satterfield',
-          '6859 Santos Harbors',
-          'Lake Fabianmouth',
-          'GA',
-          '97908',
-          '0714663526',
-          'support@LESC.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'RAU',
-          'Rau Inc',
-          '362 Faustino Spring',
-          'North Darrion',
-          'ID',
-          '83362',
-          '2265018267',
-          'support@RAU.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'TRAN',
-          'Trantow - Kertzmann',
-          '53049 Treva Springs',
-          'West Des Moines',
+          'EMME',
+          'Emmerich, Hyatt and Strosin',
+          '70448 Garden Street',
+          'Connland',
           'PA',
-          '02100',
-          '0706592033',
-          'support@TRAN.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'CHRI',
-          'Christiansen - Jast',
-          '8586 Ernestine Ranch',
-          'Port Julesworth',
-          'VA',
-          '60369',
-          '0360685355',
-          'support@CHRI.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'BOTS',
-          'Botsford - Mayer',
-          '227 Cross Lane',
-          'New Mosheport',
-          'CO',
-          '59962',
-          '3032825851',
-          'support@BOTS.com'
+          '03230',
+          '7026110963',
+          'support@EMME.com'
           )
   
   
@@ -407,12 +867,12 @@ GO
         VALUES
               (
           'SCHI',
-          'Schimmel, Greenfelder and Pol',
-          '5662 Cremin Gateway',
-          'Sylvanborough',
-          'ND',
-          '09627',
-          '6352190797',
+          'Schiller - Ryan',
+          '8985 Edyth Squares',
+          'Kirkfield',
+          'CT',
+          '61355',
+          '3932990660',
           'support@SCHI.com'
           )
   
@@ -429,14 +889,14 @@ GO
               ,[Email])
         VALUES
               (
-          'HETT',
-          'Hettinger - Luettgen',
-          '60986 Earline Extensions',
-          'Winstonworth',
-          'TX',
-          '55938',
-          '5958468492',
-          'support@HETT.com'
+          'HERM',
+          'Hermann, Blanda and Baumbach',
+          '7276 Susie Landing',
+          'Fort Tylerview',
+          'OR',
+          '10162',
+          '8819831172',
+          'support@HERM.com'
           )
   
   
@@ -452,14 +912,14 @@ GO
               ,[Email])
         VALUES
               (
-          'MOOR',
-          'Moore and Sons',
-          '64461 Desmond Pine',
-          'Pflugerville',
-          'AZ',
-          '39614',
-          '8883527063',
-          'support@MOOR.com'
+          'KOCH',
+          'Koch - Konopelski',
+          '626 Watsica Port',
+          'Yuma',
+          'MA',
+          '09782',
+          '1028653827',
+          'support@KOCH.com'
           )
   
   
@@ -475,14 +935,14 @@ GO
               ,[Email])
         VALUES
               (
-          'HINT',
-          'Hintz - Harber',
-          '3956 Harrison Street',
-          'New Tressaborough',
-          'MO',
-          '00644',
-          '5674217560',
-          'support@HINT.com'
+          'JACO',
+          'Jacobson Group',
+          '5724 Beech Drive',
+          'South Leanne',
+          'OH',
+          '63260',
+          '4074156410',
+          'support@JACO.com'
           )
   
   
@@ -498,175 +958,14 @@ GO
               ,[Email])
         VALUES
               (
-          'WARD',
-          'Ward - Abernathy',
-          '7698 Aileen Tunnel',
-          'Hemet',
-          'WY',
-          '25323',
-          '8978879539',
-          'support@WARD.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'LEUS',
-          'Leuschke, Reynolds and Gibson',
-          '370 Nicolas Street',
-          'Rodriguezland',
-          'HI',
-          '35196',
-          '7167567856',
-          'support@LEUS.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'SKIL',
-          'Skiles - Schuppe',
-          '732 Schaefer Glen',
-          'Coyhaven',
-          'WI',
-          '98716',
-          '4256015206',
-          'support@SKIL.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'STAM',
-          'Stamm - Gorczany',
-          '2989 Barton Valleys',
-          'North Carissa',
-          'NH',
-          '18180',
-          '5751233545',
-          'support@STAM.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'KERT',
-          'Kertzmann Group',
-          '2296 The Glebe',
-          'West Maureenview',
-          'ME',
-          '01909',
-          '2774795286',
-          'support@KERT.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'HUEL',
-          'Huels, Bartoletti and Gleason',
-          '33049 Schultz Extensions',
-          'Wisokyberg',
-          'FL',
-          '65881',
-          '5748391696',
-          'support@HUEL.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'CRUI',
-          'Cruickshank - Quigley',
-          '721 Webster Springs',
-          'Lake Agustin',
-          'NV',
-          '53656',
-          '5279791274',
-          'support@CRUI.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'JERD',
-          'Jerde - Nitzsche',
-          '43482 Kendrick Forest',
-          'Glendora',
+          'HALV',
+          'Halvorson, Kuhlman and Monaha',
+          '197 Kattie Crest',
+          'Fort Eliane',
           'IA',
-          '18276',
-          '6929562164',
-          'support@JERD.com'
+          '61597',
+          '0335160529',
+          'support@HALV.com'
           )
   
   
@@ -682,14 +981,14 @@ GO
               ,[Email])
         VALUES
               (
-          'WIEG',
-          'Wiegand LLC',
-          '251 Grange Road',
-          'Albuquerque',
-          'MS',
-          '39970',
-          '4096450389',
-          'support@WIEG.com'
+          'VAND',
+          'Vandervort, Waelchi and Kub',
+          '6220 Prospect Road',
+          'Lake Joanaborough',
+          'OH',
+          '16349',
+          '5654822214',
+          'support@VAND.com'
           )
   
   
@@ -705,14 +1004,14 @@ GO
               ,[Email])
         VALUES
               (
-          'BRAU',
-          'Braun and Sons',
-          '330 N Jackson Street',
-          'Port Estelle',
-          'MO',
-          '22805',
-          '8342476607',
-          'support@BRAU.com'
+          'JONE',
+          'Jones, Kemmer and Cummings',
+          '9471 Cartwright Alley',
+          'North Maryam',
+          'GA',
+          '29282',
+          '2646424712',
+          'support@JONE.com'
           )
   
   
@@ -728,198 +1027,14 @@ GO
               ,[Email])
         VALUES
               (
-          'FUNK',
-          'Funk - Schmeler',
-          '996 Ferry Road',
-          'New Buddy',
-          'MN',
-          '82233',
-          '7248817753',
-          'support@FUNK.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'OK',
-          'O''Kon - Pfeffer',
-          '9988 Cormier Land',
-          'Emmettfield',
-          'NC',
-          '60099',
-          '6779362095',
-          'support@OK.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'CONR',
-          'Conroy Group',
-          '54601 Ludie Dale',
-          'Esmeraldaside',
-          'WY',
-          '71284',
-          '1537032260',
-          'support@CONR.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'GLEI',
-          'Gleichner - Casper',
-          '81837 Georgette Knoll',
-          'Shannyborough',
-          'AZ',
-          '05648',
-          '4360716096',
-          'support@GLEI.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'LITT',
-          'Littel LLC',
-          '3357 Alanna Spurs',
-          'Daughertyworth',
-          'FL',
-          '27954',
-          '7864291176',
-          'support@LITT.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'STAN',
-          'Stanton and Sons',
-          '569 Forest Avenue',
-          'Port Eda',
-          'AL',
-          '31769',
-          '3942256989',
-          'support@STAN.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'SCHU',
-          'Schulist and Sons',
-          '7042 Presley Garden',
-          'West Daneview',
-          'AR',
-          '04795',
-          '8149641362',
-          'support@SCHU.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'CRIS',
-          'Crist Inc',
-          '462 Hoppe Burg',
-          'Lake Irmaboro',
-          'HI',
-          '51457',
-          '6698824942',
-          'support@CRIS.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'HARR',
-          'Harris - Crooks',
-          '45425 Morar Skyway',
-          'Lake Bruceland',
+          'GOOD',
+          'Goodwin - Lynch',
+          '8109 Block Lock',
+          'Schinnerworth',
           'MD',
-          '93656',
-          '8069904335',
-          'support@HARR.com'
+          '62705',
+          '2178077579',
+          'support@GOOD.com'
           )
   
   
@@ -935,14 +1050,14 @@ GO
               ,[Email])
         VALUES
               (
-          'WUNS',
-          'Wunsch, Schamberger and Colli',
-          '378 Tudor Close',
-          'Goldnerworth',
-          'NV',
-          '25792',
-          '2428957830',
-          'support@WUNS.com'
+          'WAEL',
+          'Waelchi - Strosin',
+          '80633 School Close',
+          'Oklahoma City',
+          'AK',
+          '26475',
+          '5460926593',
+          'support@WAEL.com'
           )
   
   
@@ -958,14 +1073,14 @@ GO
               ,[Email])
         VALUES
               (
-          'FRIE',
-          'Friesen, Wyman and MacGyver',
-          '68067 E Center Street',
-          'Monahanton',
-          'PA',
-          '55815',
-          '0830243176',
-          'support@FRIE.com'
+          'ROLF',
+          'Rolfson - McKenzie',
+          '872 14th Street',
+          'Genovevabury',
+          'NE',
+          '53220',
+          '1505963449',
+          'support@ROLF.com'
           )
   
   
@@ -981,14 +1096,14 @@ GO
               ,[Email])
         VALUES
               (
-          'OK',
-          'O''Keefe, Bernier and Carter',
-          '58949 Sandy Lane',
-          'South Brown',
-          'OK',
-          '28673',
-          '8413517185',
-          'support@OK.com'
+          'HILP',
+          'Hilpert Group',
+          '721 Brook Lane',
+          'Apopka',
+          'HI',
+          '58303',
+          '1455549978',
+          'support@HILP.com'
           )
   
   
@@ -1004,83 +1119,14 @@ GO
               ,[Email])
         VALUES
               (
-          'SCHU',
-          'Schuppe, Glover and Smitham',
-          '37886 Harris Dam',
-          'Schowalterside',
-          'DE',
-          '91876',
-          '4986021643',
-          'support@SCHU.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'HILL',
-          'Hilll - Friesen',
-          '89783 Hahn Village',
-          'Modesto',
-          'AL',
-          '31093',
-          '3173838064',
-          'support@HILL.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'KIEH',
-          'Kiehn, Cremin and Windler',
-          '4525 Flatley Passage',
-          'West Paxton',
-          'MO',
-          '45819',
-          '2302316800',
-          'support@KIEH.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'TILL',
-          'Tillman, Lehner and Kutch',
-          '7277 N Walnut Street',
-          'Albinafort',
+          'THOM',
+          'Thompson - Von',
+          '66430 Cole Extension',
+          'Carlsbad',
           'IA',
-          '05199',
-          '4875888734',
-          'support@TILL.com'
+          '10506',
+          '0130421965',
+          'support@THOM.com'
           )
   
   
@@ -1096,64 +1142,15 @@ GO
               ,[Email])
         VALUES
               (
-          'DOYL',
-          'Doyle, Willms and Boehm',
-          '33093 N Broadway',
-          'Edinburg',
-          'WI',
-          '45289',
-          '9430280588',
-          'support@DOYL.com'
+          'MILL',
+          'Miller, Raynor and Brown',
+          '84871 Jefferson Street',
+          'West Omari',
+          'TX',
+          '62639',
+          '7708987495',
+          'support@MILL.com'
           )
   
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'CRIS',
-          'Crist LLC',
-          '827 Brandi Trail',
-          'New Gersonburgh',
-          'RI',
-          '10620',
-          '0864903497',
-          'support@CRIS.com'
-          )
-  
-  
-
-    INSERT INTO [dbo].[Vendors]
-              ([Code]
-              ,[Name]
-              ,[Address]
-              ,[City]
-              ,[State]
-              ,[Zip]
-              ,[Phone]
-              ,[Email])
-        VALUES
-              (
-          'BATZ',
-          'Batz and Sons',
-          '235 O'Reilly Island',
-          'Freddyfield',
-          'RI',
-          '55024',
-          '3477566433',
-          'support@BATZ.com'
-          )
-  
-  
-
-
   
 
