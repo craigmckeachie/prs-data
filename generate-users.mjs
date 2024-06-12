@@ -13,8 +13,6 @@ function createRandomUser() {
     firstname: firstName,
     lastname: lastName,
     phone: faker.string.numeric(10),
-    // email: faker.internet.exampleEmail({ firstName, lastName }),
-    // email: userName + "@" + faker.internet.domainName(),
     email: userName + "@example.com",
     isreviewer: faker.helpers.arrayElement([0, 1]),
     isadmin: faker.helpers.arrayElement([0, 1]),
