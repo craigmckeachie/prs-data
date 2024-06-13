@@ -1,5 +1,10 @@
 import { faker } from "@faker-js/faker";
 
+//TODO: update this script to SET IDENTITY_INSERT Customer ON then OFF
+// and insert the vendors id using the counter from the loop
+//then update products to randomly use vendorids between 1 and 50
+//leave product images null, won't be used on most screens anyway
+
 function createRandomVendor() {
   const companyName = faker.company.name().replace("'", "''").substring(0, 29);
   const companyCode = companyName
